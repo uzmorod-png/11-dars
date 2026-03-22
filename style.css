@@ -1,0 +1,63 @@
+body {
+  background-color: #2f3c4f;
+}
+table {
+  border-collapse: collapse;
+  width: 1500px;
+}
+th {
+  background-color: darkblue;
+  color: white;
+}
+td {
+  text-align: center;
+  color: white;
+}
+table {
+  width: 1500px;
+  border-collapse: collapse;
+}
+.mars {
+  text-align: center;
+  color: white;
+}
+.jadval {
+  text-align: center;
+  color: #f28c00;
+}
+.container {
+  width: 1470px;
+  height: 550px;
+  background-color: rgb(0, 0, 0);
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 30px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+input {
+  padding: 8px;
+}
+.otish {
+  color: #f28c00;
+}
+input {
+  border-radius: 5px;
+}
+.parol {
+  width: 450px;
+}
+.junatish {
+  color: rgb(253, 253, 253);
+  background-color: green;
+  width: 400px;
+  border-radius: 10px;
+  height: 30px;
+}
+.rang {
+  width: 150px;
+  height: 10px;
+  background-color: black;
+  padding: 8px;
+}
